@@ -361,7 +361,7 @@ bool containsDigits(char *str)
 					{
 						if (tab[i] > tab[i + 1])
 						{
-							zamiana = zamiana + 1; //zmiana powieksza wartosc o 1
+							zamiana = zamiana + 1; //zamiana powieksza wartosc o 1
 							pamiec = tab[i];//wartość tab[i] jest kopiowana do pamieci
 							tab[i] = tab[i + 1];//tab[i] przyjmuje wartosc kolejnego większego elementu
 							tab[i + 1] = pamiec;//kolejny element tablicy przejmuje wcześniejszą wartość poprzedniego elementu, gdyż jest on większy
