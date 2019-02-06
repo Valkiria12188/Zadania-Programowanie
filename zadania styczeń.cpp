@@ -201,7 +201,7 @@ int main()
 
 		}
 	case 2:
-	{ //dane pierwszego studenta sa odgornie podane, natomiast drugiego podaje uzytkownik w celu sprawdzenia działania fukncji "bool are egueal"
+	{ //dane pierwszego studenta i drugiego podaje uzytkownik w celu sprawdzenia działania fukncji "bool are egueal"
 
 		printf("\n------------------------------------------------------------------------------------------------------------------------\n");
 		int a2, h2, se2, a1, h1, se1, i;
